@@ -30,4 +30,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business-related metrics, enabling strategic decision-making.
 
 
+☕ Stay Connected
+
+Feel free to reach me on LinkedIn at www.linkedin.com/in/nikhil-singh-a5825a217
+
+
 
